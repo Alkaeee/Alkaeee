@@ -2,7 +2,7 @@
 ![Texto alternativo](src/img/banner.png)
 
 
-¡Hola! Mi nombre es Javier y soy Data Scientists. Soy de España y actualmente resido en Madrid. Me podeis encontrar en [LinkedIn](https://www.linkedin.com/in/javierdealcazar).
+¡Hola! Mi nombre es Javier y soy Data Scientist. Soy de España y actualmente resido en Madrid. Me podeis encontrar en [LinkedIn](https://www.linkedin.com/in/javierdealcazar).
 
 
 ## 🔧 Technologies & Tools
