@@ -12,7 +12,7 @@
 
 <p> 
   ¡Hola! Mi nombre es Javier y soy Data Scientist. Soy de España y actualmente resido en Madrid. Me podeis encontrar en  
-  <a href="https://www.linkedin.com/in/danielrdegouveia/" target="_blank">
+  <a href="https://www.linkedin.com/in/javierdealcazar/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn">
   </a>
 </p>
