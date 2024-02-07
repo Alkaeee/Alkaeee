@@ -6,17 +6,36 @@
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-0055C2?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Linux-5C5C5C?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![](https://img.shields.io/badge/Made%20with-Jupyter-orange)
-![](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+<p align="center">
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="60" alt="Amazon AWS">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="60" alt="Git">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="60" alt="Docker">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="60" alt="GitHub">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60" alt="Python">
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="60" alt="MongoDB">
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="60" alt="PostgreSQL">
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="60" alt="Jupyter Notebook">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="60" alt="MySQL">
+  </a>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
