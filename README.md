@@ -1,8 +1,21 @@
 
+
 ![Texto alternativo](src/img/banner.png)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&color=000000DF&background=FF151500&center=true&random=false&width=600&lines=!Hello+World%C2%A1;Welcome+to+my+data+projects" alt="Hello World! Welcome to my data projects">
+  </a>
+</p>
 
-¡Hola! Mi nombre es Javier y soy Data Scientist. Soy de España y actualmente resido en Madrid. Me podeis encontrar en [LinkedIn](https://www.linkedin.com/in/javierdealcazar).
+## :red_circle: About me
+
+<p> 
+  ¡Hola! Mi nombre es Javier y soy Data Scientist. Soy de España y actualmente resido en Madrid. Me podeis encontrar en  
+  <a href="https://www.linkedin.com/in/danielrdegouveia/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn">
+  </a>
+</p>
 
 
 ## 🔧 Technologies & Tools
@@ -39,14 +52,18 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Alkaeee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaeee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-
-</a>
-
-![](https://github-readme-stats.vercel.app/api?username=Alkaeee&theme=blue-green)
-
-</a>
+<table align="center" style="margin: 20px 20px; background-color: #2d2d2d; border-radius: 10px;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Alkaeee">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaeee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Alkaeee&show_icons=true&theme=dark" alt="Alkaee GitHub stats">
+    </td>
+  </tr>
+</table>
 
 
 
